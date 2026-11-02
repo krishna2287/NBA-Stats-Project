@@ -45,8 +45,3 @@ https://github.com/
 
 How It Works: 
 ![System diagram](sys_diagram.png)
-
-
-
-How It Works: 
-![Diagram](docs/sys_diagram.png)
