@@ -8,3 +8,7 @@ MVP Scope: Read NBA player statistics from CSV files, search for a player and di
 Future Plans: Compare player statistics across multiple seasons, display league leaders in various stats, compare full team statistics.
 
 Tech Stack: Using Java as my language, IntelliJ as my IDE, using built in Java libraries such as scanner, File IO, and arrays.
+
+
+How It Works: 
+![alt text](Tools Final Project Diagram.drawing.png)
