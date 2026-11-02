@@ -11,4 +11,4 @@ Tech Stack: Using Java as my language, IntelliJ as my IDE, using built in Java l
 
 
 How It Works: 
-![alt text](Tools Final Project Diagram.drawio.png)
+![Diagram](docs/sys_diagram.png)
